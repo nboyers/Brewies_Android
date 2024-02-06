@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "165185583723",
+    "project_id": "brewies-android",
+    "storage_bucket": "brewies-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165185583723:android:3474cc374bd53aee4e8f2e",
+        "android_client_info": {
+          "package_name": "com.nobosoftware.brewies"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165185583723-4tr75e1f3td27d80h3kn6lu25aeuuc66.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4A6e76RV8wihBRYRyjSFXF0erZmKttfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165185583723-4tr75e1f3td27d80h3kn6lu25aeuuc66.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
