@@ -2,7 +2,7 @@
 <project version="4">
   <component name="deploymentTargetDropDown">
     <value>
-      <entry key="LoginScreenPreview">
+      <entry key="ForgotPasswordScreenPreview">
         <State />
       </entry>
       <entry key="PreviewLoginScreen">
@@ -11,10 +11,10 @@
       <entry key="PreviewLoginScreen (1)">
         <State />
       </entry>
-      <entry key="SignUpLogInScreenPreview">
+      <entry key="PreviewMain">
         <State />
       </entry>
-      <entry key="SignUpLogInScreenPreview (1)">
+      <entry key="SignUpLogInScreenPreview">
         <State />
       </entry>
       <entry key="app">
